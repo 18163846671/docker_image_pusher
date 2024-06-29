@@ -2,3 +2,4 @@ enwaiax/x-ui:latest
 ghcr.io/haishanh/yacd:master
 jupyter/all-spark-notebook:latest
 jupyter/scipy-notebook:latest
+whyour/qinglong:latest
